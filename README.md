@@ -1,2 +1,3 @@
-# Mobile Review
-	Developing an app which contains all of the latest information for any mobile. 
+# তথ্য ভাণ্ডার
+	 এই অ্যাপটিতে আমরা চেষ্টা করেছি বাংলাদেশ, আন্তর্জাতিক, খেলাধুলা, বিজ্ঞান ও প্রযুক্তি ,ইতিহাস সহ অনেক গুরুত্ব পূর্ণ তথ্য দিতে। এটির মাধ্যমে আপনি জানতে পারবেন দেশ-বিদেশের অনেক জানা অজানা তথ্য। যা কিনা আপনার তথ্য ভান্ডারকে করে তুলবে আরো অনেক বেশি সমৃদ্ধ। 
+[Download Link] (https://play.google.com/store/apps/details?id=com.nuhin13.knowledge.Bank)
