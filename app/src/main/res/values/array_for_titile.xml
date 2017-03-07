@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="titile">
+        <item>বাংলাদেশ </item>
+        <item>আন্তর্জাতিক </item>
+        <item>বিজ্ঞান ও প্রযুক্তি </item>
+        <item>খেলাধুলা </item>
+        <item>ইতিহাস </item>
+        <item>মজার কিছু তথ্য </item>
+        <item>বাংলা আই কিউ</item>
+    </string-array>
+
+</resources>

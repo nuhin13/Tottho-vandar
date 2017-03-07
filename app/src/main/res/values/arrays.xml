@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="places">
+        <item>Palais Garnie</item>
+        <item>Piazza del Duomo</item>
+        <item>Manhattan</item>
+        <item>Senso-ji</item>
+        <item>Sultan Ahmed Mosque</item>
+        <item>Table Mountain</item>
+    </string-array>
+    <string-array name="place_desc">
+        <item>The Palais Garnier which locates in Paris was built from 1861 for
+        the Paris Opera.
+        </item>
+        <item>Piazza del Duomo the cathedral which locates in Florence.</item>
+        <item>Manhattan is the district in New York City</item>
+        <item>Senso-ji is the Shrine locates in Asakusa Tokyo</item>
+        <item>Sultan Ahmed Mosque is mosque locates in Istabul, Turkey</item>
+        <item>Table Mountain is mountain and park locates in Cape Town, South Africa.</item>
+    </string-array>
+    <string-array name="place_details">
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+    </string-array>
+    <string-array name="place_locations">
+        <item>8 Rue Scribe, 75009 Paris, France</item>
+        <item>Piazza del Capitolo - 50122 Florence</item>
+        <item>New York City</item>
+        <item>2-3-1 Asakusa, Taitō-ku, Tokyo, Japan</item>
+        <item>At Meydanı No:7, 34122 Fatih/İstanbul, Turkey</item>
+        <item>Cape Town, South Africa</item>
+    </string-array>
+
+    <array name="places_picture">
+        <item>@drawable/bd</item>
+        <item>@drawable/international</item>
+        <item>@drawable/science</item>
+        <item>@drawable/sports</item>
+        <item>@drawable/history</item>
+        <item>@drawable/g</item>
+        <item>@drawable/i</item>
+
+    </array>
+
+    <string-array name="question">
+        <item>বাংলাদেশে প্রবেশের পূর্বে ব্রহ্মপুত্র কোন কোন দেশের উপর দিয়ে প্রবাহিত হয়?</item>
+        <item>Piazza del Duomo</item>
+        <item>Manhattan</item>
+        <item>Senso-ji</item>
+        <item>Sultan Ahmed Mosque</item>
+        <item>Table Mountain</item>
+    </string-array>
+    <string-array name="answer">
+        <item>তিব্বতে (সান পো নামে) এবং ভারতের আসামে (ডিহি নামে)
+        </item>
+        <item>Piazza del Duomo the cathedral which locates in Florence.</item>
+        <item>Manhattan is the district in New York City</item>
+        <item>Senso-ji is the Shrine locates in Asakusa Tokyo</item>
+        <item>Sultan Ahmed Mosque is mosque locates in Istabul, Turkey</item>
+        <item>Table Mountain is mountain and park locates in Cape Town, South Africa.</item>
+    </string-array>
+
+    <string-array name="iq_test_ques" formatted="false">
+        <item>প্র.: কংক্রিটের মেঝেতে ডিম ফেলবেন, কিন্তু ফাটবে না—কীভাবে করবেন </item>
+        <item>প্র.: একটা দেয়াল বানাতে আটজন মানুষের যদি ১০ ঘণ্টা লাগে, চারজন মানুষের কত সময় লাগবে?</item>
+        <item>প্র.: আপনার এক হাতে যদি তিনটি আপেল ও চারটি কমলা থাকে, আর আরেকটি হাতে থাকে চারটি আপেল ও তিনটি কমলা; তাহলে কী পেলেন আপনি?</item>
+        <item>প্র.: এক হাতে একটা হাতিকে কীভাবে ওপরে তুলবেন? </item>
+        <item>প্র.: একজন মানুষ কী করে আট দিন না ঘুমিয়ে থাকতে পারে? </item>
+        <item>প্র.: নীল সাগরে যদি একটা লাল পাথর ছুড়ে মারেন, কী হবে?</item>
+        <item>প্র.: কোন জিনিসটি দেখতে একটি অর্ধেক আপেলের মতো?</item>
+        <item>প্র.: ব্রেকফাস্টে কোন জিনিসটা কখনোই খেতে পারেন না আপনি?</item>
+        <item>প্র.: বে অব বেঙ্গল কোন স্টেটে অবস্থিত?</item>
+        <item>প্র.: এক ভদ্রমহিলা একটি বই নিয়ে কাউন্টারের কাছে এসে কাউন্টারের ভদ্রলোককে বইটা দিলেন। ভদ্রলোক বইটা একনজর দেখে নিয়ে বললেন ৮০ টাকা। ভদ্রমহিলা টাকা দিয়ে বইটা না নিয়েই চলে গেলেন। ভদ্রলোক মহিলাকে যেতে দেখেও পিছু ডাকলেন না। কেন ? </item>
+         <item>প্র.: রিয়াজ ভাইয়ের টুপি বিষয়ক শাস্তি আমার বেশ মনে ধরেছে। আমি শাস্তি নয়, পুরস্কার দেবার জন্য টুপি কৌশল প্রয়োগ করার সিদ্ধান্ত নিলাম। আমাদের লিচু গাছে বেশ লিচু ধরেছে। পাড়ার সবচেয়ে দুষ্ট অথচ প্রতিভাবান ৪ বালক লিচু চুরি করতে গিয়ে আমার হাতে ধরা খেল। আমি এমনিতেই উদার মানুষ। তার উপর বুদ্ধিমানদের পছন্দ করি। তাই তাদের একটা সুযোগ দিলাম। ৪ দুষ্ট বালক রহিম, করিম, জনি আর আমিন কে এক লাইনে দাড় করালাম। অর্থাৎ এভাবে, রহিমের পিছনে করিম, করিমের পিছনে জনি আর জনির পিছনে আমিন। পাশাপাশি নয়। তাহলে করিম রহিমকে, জনি রহিম ও করিমকে এবং আমিন বাকি তিন জনকেই দেখতে পায়। আমার কাছে ৬ টা টুপি ছিল। ১ টা লাল, ২টা নীল ও ৩টা সাদা। আমি ওদের টুপিগুলো দেখিয়ে বললাম, “ আমি এই টুপিগুলোর যে কোন ৪টি তোমাদের চার জনের মাথায় পড়িয়ে দিব। তোমরা নিজেরা, নিজেদের টুপি দেখতে পারবে না। কেউ কারো সাথে কথাও বলবে না। তারপরও কেউ যদি নিজের টুপির রং বলতে পার তবে তোমাদের ১০০ লিচু পুরস্কার দেয়া হবে। চাইলে তোমরা রং না বলে যে যার মত চলে যেতে পার। যদি কেউ রং বলার আগেই জায়গা ছেড়ে সরে যাও তবে কোন পুরস্কার পাবে না।” আমি মোটামুটি নিশ্চিত ছিলাম আমিন পারবে। কারন, সে অন্য সবার টুপি দেখতে পারছে। কিন্তু আমাকে অবাক করে কিছু সময় পরই রহিম তার টুপির রং বলে দিল। আমি বাধ্য হয়ে ১০০ লিচু পেরে নেবার অনুমতি দিলাম। আপনারা কেউ বলতে পারবেন, “রহিমের টুপির রং কি ছিল, এবং সে টের পেল কি করে?" </item>
+         <item>প্র.: এক পর্যটক ভ্রমণ করতে করতে এক নতুন দেশে এসে হাজির হল। সে দেশের নিয়ম হল, বিনা অনুমতিতে সেখানে কেউ প্রবেশ করলে তার মৃত্যুদন্ড অনিবার্য। তবে পর্যটক বেচারা যেহেতু নিয়মটা জানত না, তাই সে কারো অনুমতি ছাড়াই সে দেশে প্রবেশ করল। কাজেই সেদেশের প্রহরীরা তাকে অবৈধ অনুপ্রবেশের অভিযোগে বন্দী করে রাজার কাছে নিয়ে এল। রাজা উভয় পক্ষের কথা শুনে রায় দিলেন, যেহেতু সে নিয়মটা জানত না এবং নিতান্তই ভুলক্রমে অনুপ্রবেশ করেছে, কাজেই তাকে একটা সুযোগ দেওয়া হবে। সে যদি এমন একটা বাক্য বলতে পারে, যেটা সত্যও না মিথ্যাও না, তাহলেই কেবল তাকে মুক্তি দেওয়া হবে। অন্যথায় তাকে মৃত্যুকেই বরণ করে নিতে হবে। তবে বাক্যটা অবশ্যই হ্যাঁ-বোধক/বর্ণনামূলক বাক্য হতে হবে। প্রশ্নসূচক, অনুজ্ঞামূলক বা অন্য কোন ধরনের বাক্য হলে চলবে না। আপনি কি বলতে পারেন, কি এমন সে বাক্য, যেটা সত্যও না মিথ্যাও না? </item>
+         <item>প্র.: একটি রুমের মধ্যে একটি বাল্ব নেভানো অবস্থায় আছে, এবং রুমের বাইরে রয়েছে তিনটি সুইচ যার মধ্যে কেবল একটি সুইচ বাল্বটিকে অন করতে পারে। বলা বাহুল্য সুইচ তিনটি অফ অবস্থায় রয়েছে। এখন প্রশ্ন হচ্ছে, আপনি কেবল একবার রুমে প্রবেশ করতে পারবেন চেক করার জন্য এবং আপনাকে বের করতে হবে কোন সুইচটি লাইটটিকে অন করতে পারে। বিদ্র: রুমের বাইরে থেকে আলো দেখা যাবার কোন ব্যাবস্থা নেই। </item>
+        <item>প্র.: একজন লোক একটি চৌমাথার সামনে এসে পড়ল মুশকিলে। চৌমাথার মাঝের দিকনির্দেশকটা (বা গন্তব্যনির্দেশক) ঝড়ে পড়ে গিয়েছে আর পড়েছে গিয়ে দশহাত দূরে ! লোকটির মাথায় হাত ! কাছাকাছি কাউকে দেখতেও পাচ্ছে না যে জিজ্ঞাসা করবে তার যাওয়ার রাস্তা কোনদিকে ? অনেক ভেবে সে একটা বুদ্ধি বার করল আর ঠিক রাস্তাতেই গিয়ে গন্তব্যে পৌঁছে গেল। প্রশ্ন : বুদ্ধিটা কি ?</item>
+         <item>প্র.: চারটি মেয়ে তাদের নিজেদের বয়সের গড় নির্ণয় করতে চাইছে। কিন্তু সমস্যা হল, তারা কেউই নিজের বয়স অন্য কাউকে জানাতে রাজি নয়। নিজের বয়স একে অন্যকে না জানিয়ে তারা কিভাবে তাদের বয়সের গড় নির্ণয় করতে পারবে? </item>
+        <item>প্র.: আজ দুজন জমজ ভাইয়ের জন্মদিন। তাদের বাবা তাদের জন্মদিন পালন করার জন্য আয়তকার একটি কেক নিয়ে আসল। দু ভাই চিন্তা করল কেকটি সমান দু ভাগে ভাগ করে তারা দু জন খাবে। ঐ মুহুর্ত্বে তাদের বাসায় তাদের চাচা বেড়াতে আসল। তারা দুজন কেকটি ভাগ করার আগে তাদের বাবা তাদের চাচার জন্য ঐ কেক থেকে একদম গোল করে কেটে একটুকরা কেক নিয়ে গেল। এখন তারা কিভাবে কেকটি একদম সমান ভাবে ভাগ করবে? </item>
+        <item>প্র.: আপনি একটি জায়গা যেখানে বাস করেন সেখানে ৬ মাস গ্রীষ্ম এবং অন্যান্য ৬ মাস তাপমাত্রা হিমাংকের নিচে নেমে যায়। আপনার একটি নিজস্ব দ্বীপ আছে, সেখানে যেতে হলে আপনাকে একটি হ্রদ পার হয়ে যেতে হয়। আপনাকে সেখানে একটি গৃহ নির্মাণ করতে চান। এজন্য গৃহ নির্মাণ ও প্রয়োজনীয় জিনিস বহন করে নিতে চান, কিন্তু দুঃখজনক ভাবে আপনার কোন নৌকা, জাহাজ বা এমন কিছু নেই যে, আপনি দ্বীপের সব উপাদান পরিবহন ব্যবহার করতে পারেন! তাহলে আপনি এসব জিনিস বহন করে কীভাবে দ্বীপে নিয়ে যাবেন? </item>
+        <item>প্র.: ৩ টি হাঁস প্যাঁক প্যাঁক করতে করতে একটি সোজা লাইন ধরে হাঁটছিল। প্রথম হাঁসটা বলছে, আমার পেছনে একটি হাঁস। দ্বিতীয় হাঁসটা বলছে, আমার পেছনেও একটি হাঁস। তৃতীয় হাঁসটা রহস্যময় হাসি দিয়ে বলল, আমার পিছনেও একটি হাঁস আছে। এটা কিভাবে সম্ভব?? (ধাঁধাঁর হাঁস তাই কথা বলছে। এখানে রহস্য খুজবেন না) </item>
+        <item>প্র.: অনেক উঁচু ভবন থেকে ফেললেও বিচ্ছিন্ন হবে না। কিন্তু সমুদ্রে ফেললেই ছিন্নভিন্ন হয়ে যাবে। কী? </item>
+
+        <!--<item>প্র.: একটা ছোট ছেলে এক লোকের পুকুরে ছিপ দিয়ে মাছ ধর ছিল । এমন সময় পুকুর মালিক হাজির ছেলেটা তার হাতে ধরা পড়লো । পুকুর মালিক: আমি তোমাকে একটা সুযোগ দেব । যদি তুমি এক কথায় বলতে পার তুমি কোথায় পড় এবং কবে কবে মাছ ধরো ? </item>
+        <item>প্র.: বেশ কিছুদিন আগে একটি মাদারের নাম্বার খুব ডিস্টার্ব করছিল। একটু পর পর নাম্বারটি মিস্ কল দিত। মিস্ কল দেওয়ার কারন জানার জন্য নাম্বারটিতে বেশ কয়েকবার কল দিলাম। কিন্তু সমস্যা হল ফাজিল ব্যাটা কল রিসিভ করে না। এরপর ভাবলাম, ম্যাসেজ পাঠালে হয়ত কাজ হতে পারে। তাই তাকে ম্যাসেজ পাঠালাম, "Who r u"। সে জবাব দিল, "your father, mother, brother, sister"। বুঝলাম ব্যাটা শুধু ফাজিল না, আসলে মহা ফাজিল। এরপর সে কোন দেশী তা জানতে চেয়ে ম্যাসেজ পাঠালাম। সে জবাব দিল, "i am a libyan"। কিন্তু আমি সাথে সাথে বুঝে গেলাম যে, লোকটি বাংলাদেশী। কিভাবে বুঝেছিলাম? মাদারেরনাম্বার - লিবিয়াতে দুটি মোবাইল ফোন অপারেটার আছে, একটি লিবিয়ানা‎(Libyana) অন্যটি মাদার(Madar)।</item>
+        <item>প্র.: ঝড়ের রাতে একই ঘরে দু'জন গর্ভবতী মা ছিল, এবং একই সময়ে দু'জনেই দুটি সন্তান প্রসব করল, একজন প্রসব করল একটি ছেলে, আরেকজন প্রসব করল একটি মেয়ে, সকালে উঠে দু মা-ই ছেলে সন্তানটির দাবি করল। কে মেয়ে সন্তান প্রসব করেছে ? আর কে ছেলে সন্তান প্রসব করেছে ? </item>
+        <item>প্র.: </item>
+-->
+    </string-array>
+
+    <string-array name="iqtestanswer" formatted="false">
+        <item>উ.: কংক্রিটের মেঝে আসলে খুব শক্ত, ফাটার কোনো আশঙ্কাই নেই!</item>
+        <item>উ.: কোনো সময়ই লাগবে না, কারণ দেয়ালটা ততক্ষণে তৈরি হয়ে যাবে!</item>
+        <item>উ.: বিশাল বড় হাত।</item>
+        <item>উ.: এক হাতের আটবে এমন হাতিকে জীবনেও খুঁজে পাবেন না!</item>
+        <item>উ.: কোনো সমস্যা নেই, সে রাতে ঘুমাবে! </item>
+        <item>উ.: যা হওয়ার তা-ই, পাথরটি ভিজে যাবে অথবা ডুবে যাবে টুপ করে। </item>
+        <item>উ.: আপেলের বাকি অর্ধেকটি।</item>
+        <item>উ.: ডিনার।</item>
+        <item>উ.: লিকুইড। </item>
+        <item>উ.: মহিলা লাইব্রেরীতে বই ফেরত দিতে এসেছিলেন। ৮০ টাকা হল লেট ফি (Late Fee)</item>
+        <item>উ.: সবার শেষে আছে আমিন। সে যদি দেখে সামনের ৩ জনের ১ জনের টুপির রং লাল আর ২জনের নীল, তবে সে সহজেই নিজের টুপির রং সাদা বলে দিতে পারবে। অতএব সামনের ৩ জনের টুপির রং কিছুতেই ১টা লাল ও ২ টা নীল হতে পারে না। তাহলে সামনের ৩ জনের সম্ভাব্য টুপির রং- ১টা লাল ও ২টা সাদা, ১টা লাল ও ১টা নীল ও ১টা সাদা, ১টা সাদা ও ২টা নীল, ১টা নীল ও ২টা সাদা, ৩টা সাদা। এবার জনির পালা। জনি যদি দেখে, সামনের ২ জনের টুপির রং নীল তাহলে সে সহজেই বলে দেবে তার টুপির রং সাদা। আবার যদি দেখে ১ টা লাল ও ১ টা নীল তাও বলতে পারবে সাদা। অর্থাৎ সামনের দুজন ১টা লাল ও ১টা নীল, অথবা ২টা নীল পড়ে নাই। তাহলে সামনের ২জনের সম্ভাব্য টুপির রং, ১ টা লাল ও ১ টা সাদা, ১ টা নীল ও ১ টা সাদা, ২টা সাদা। এবার করিমের পালা। করিম যদি দেখে সামনের জন লাল টুপি পড়েছে, সে হাসতে হাসতে বলবে, “আমি সাদা টুপি পড়েছি।” যদি দেখে নীল তাও বলবে, “সাদা টুপি পড়েছি।” কিন্তু যদি দেখে সামনের জনের অর্থাৎ রহিমের টুপি সাদা তখন বলতে পারবেনা; “সে লাল, নীল না সাদা পড়েছে।" সুতরাং রহিমের মাথায় সাদা টুপি আছে বলেই অন্য কেউ তাদের টুপির রং বলতে পারছে না।</item>
+        <item>উ.: আমি মিথ্যা কথা বলছি এই বাক্যটা সত্যও না মিথ্যাও না!</item>
+        <item>উ.: সঠিক সুইচ বের করার জন্য একটু বুদ্ধি খাটাতে হবে। প্রথমে সুইচ ১ অন করে কিছু সময় অপেক্ষা করে অফ করে সুইচ ২ অন করে রুমে ঢুকতে হবে। এখন রুমে বাতিটি যদি অন অবস্থায় পাওয়া যায় তাহলে সুইচ ২ হচ্ছে সঠিক, আর যদি অফ পাওয়া যায় তাহলে কাছে গিয়ে বাতিটি স্পর্শ করে যদি গরম/উষ্ণ পাওয়া যায় তার মানে এর আগে সুইচ ১ বাতিটিকে কিছুক্ষন জ্বালিয়েছিল, তার মানে সুইচ ১ হবে সঠিক সুইচ। আর যদি বাল্বটি ঠান্ডা অবস্থায় পাওয়া যায় তাহলে বাকী থাকবে সুইচ ৩, সুতরাং তখন সুইচ ৩-ই হবে একমাত্র সঠিক সুইচ।</item>
+        <item>উ.: লোকটি যেদিক থেকে এসেছে সেখানকার নাম তো জানে। দিকনির্দেশকটাকে সেইমত বসিয়ে নিলেই তো বাকি তিনটি নির্দেশক সঠিক দিক নির্দেশ করবে। ব্যস চলে গেলেই হল !</item>
+        <item>উ.: মেয়েগুলিকে ১ম, ২য়, ৩য় এবং ৪র্থ মেয়ে হিসেবে চিহ্নিত করি.</item>-->
+        <item>উ.: গোল করে কাটা জায়গাটির মাঝ বরাবর ও কেকটির মাঝ বরাবর কেটে ফেলতে হবে.</item>-->
+        <item>উ.: শীতকালের জন্য অপেক্ষা করুন যখন হ্রদ বরফে পরিণত হবে।</item>
+        <item>উ.: তৃতীয় হাঁসটা মিথ্যা বলছে</item>
+        <item>উ.: টিস্যু পেপার \n</item>
+
+
+    </string-array>
+
+</resources>
